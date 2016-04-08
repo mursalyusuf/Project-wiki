@@ -1,0 +1,6 @@
+site_name: Project Wiki
+site_name: MkLorum
+pages:
+- [index.md, Home]
+- [about.md, About]
+theme: readthedocs
