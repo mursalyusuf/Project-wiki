@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Home", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Author Page", 
+            "title": "About"
+        }
+    ]
+}
